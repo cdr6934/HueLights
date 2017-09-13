@@ -1,0 +1,11 @@
+Package: HueLights
+Type: Package
+Title: API Wrapper to Phillips Hue Light System
+Version: 0.1.0
+Author: Christopher Ried
+Maintainer: Chris Ried <chris@cbayes.com>
+Description: Simple Phillips Hue Lights package used to control the lights within my house as an alarting system used to let me know when a function has run. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
